@@ -1,0 +1,1124 @@
+2020-06-05 00:00:07 [Thread-129] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:00:07 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 117360 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:00:07 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:00:07 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:00:07 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:00:07 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:00:07 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:00:07 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:00:08 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:00:08 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:00:08 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.01 seconds (JVM running for 42.62)
+2020-06-05 00:00:08 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 00:00:10 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 00:00:10 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:00:18 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 131880 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:00:18 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:00:18 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:00:18 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:00:19 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:00:19 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:00:19 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:00:19 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:00:20 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:00:20 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:00:20 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:00:20 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 2.294 seconds (JVM running for 3.813)
+2020-06-05 00:00:25 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 00:00:59 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 00:01:00 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:01:06 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 131580 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:01:06 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:01:06 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:01:06 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:01:07 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:01:07 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:01:07 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:01:07 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:01:08 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:01:08 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:01:08 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:01:08 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 2.397 seconds (JVM running for 3.986)
+2020-06-05 00:01:17 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 125852 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:01:17 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:01:18 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:01:18 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:01:19 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:01:19 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:01:19 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:01:19 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:01:19 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:01:19 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2020-06-05 00:01:19 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9848 is already in use
+2020-06-05 00:01:19 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:01:19 [restartedMain] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2020-06-05 00:01:19 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-05 00:01:19 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9848 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9848 or configure this application to listen on another port.
+
+2020-06-05 00:01:31 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 00:01:31 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:01:40 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 109844 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:01:40 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:01:40 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:01:40 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:01:42 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:01:42 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:01:42 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:01:42 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:01:42 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:01:42 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:01:42 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:01:42 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 2.171 seconds (JVM running for 3.803)
+2020-06-05 00:01:47 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 00:02:01 [http-nio-9848-exec-6] ERROR c.d.c.c.CalculatorController - Invalid Date Entry
+2020-06-05 00:06:56 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 00:06:57 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:07:19 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 53216 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:07:19 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:07:19 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:07:19 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:07:20 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:07:20 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:07:20 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:07:20 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:07:21 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:07:21 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:07:21 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:07:21 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 12.821 seconds (JVM running for 15.175)
+2020-06-05 00:09:20 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 00:09:38 [http-nio-9848-exec-6] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: temporal] with root cause
+java.lang.NullPointerException: temporal
+	at java.util.Objects.requireNonNull(Unknown Source)
+	at java.time.LocalDate.from(Unknown Source)
+	at java.time.LocalDate.until(Unknown Source)
+	at java.time.temporal.ChronoUnit.between(Unknown Source)
+	at com.date.calculator.service.ProcessNumberOfDays.getNoOfDays(ProcessNumberOfDays.java:18)
+	at com.date.calculator.controller.CalculatorController.calculate_days(CalculatorController.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2020-06-05 00:14:38 [Thread-126] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:14:38 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 53216 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:14:38 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:14:39 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:14:39 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:14:39 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:14:39 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:14:39 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:14:39 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:14:39 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:14:39 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.014 seconds (JVM running for 453.625)
+2020-06-05 00:14:39 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 00:14:51 [Thread-129] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:14:51 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 53216 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:14:51 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:14:52 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:14:52 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:14:52 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:14:52 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:14:52 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:14:52 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:14:52 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:14:52 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 0.955 seconds (JVM running for 466.241)
+2020-06-05 00:14:52 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 00:15:00 [Thread-254] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:15:00 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 53216 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:15:00 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:15:01 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:15:01 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:15:01 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:15:01 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:15:02 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:15:02 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:15:02 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:15:02 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.382 seconds (JVM running for 475.98)
+2020-06-05 00:15:02 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 00:15:56 [Thread-379] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:15:56 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 53216 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:15:56 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:15:56 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:15:56 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:15:56 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:15:57 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:15:57 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:15:57 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:15:57 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:15:57 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 0.858 seconds (JVM running for 531.014)
+2020-06-05 00:15:57 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 00:18:42 [Thread-504] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:18:42 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 53216 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:18:42 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:18:43 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:18:43 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:18:43 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:18:43 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:18:43 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:18:43 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:18:43 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:18:43 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 0.841 seconds (JVM running for 697.212)
+2020-06-05 00:18:43 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 00:20:41 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 00:20:42 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:20:49 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 136364 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:20:49 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:20:49 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:20:49 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:20:51 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:20:51 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:20:51 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:20:51 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:20:51 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:20:52 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:20:52 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:20:52 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 2.799 seconds (JVM running for 4.795)
+2020-06-05 00:21:08 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 00:21:15 [http-nio-9848-exec-5] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: temporal] with root cause
+java.lang.NullPointerException: temporal
+	at java.util.Objects.requireNonNull(Unknown Source)
+	at java.time.LocalDate.from(Unknown Source)
+	at java.time.LocalDate.until(Unknown Source)
+	at java.time.temporal.ChronoUnit.between(Unknown Source)
+	at com.date.calculator.service.ProcessNumberOfDays.getNoOfDays(ProcessNumberOfDays.java:19)
+	at com.date.calculator.controller.CalculatorController.calculate_days(CalculatorController.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2020-06-05 00:21:32 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 00:21:33 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:21:50 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 129584 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:21:50 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:21:50 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:21:50 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:21:51 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:21:51 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:21:51 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:21:51 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:21:52 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:21:52 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:21:52 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:21:52 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 2.601 seconds (JVM running for 4.454)
+2020-06-05 00:22:29 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 00:22:34 [http-nio-9848-exec-6] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: temporal] with root cause
+java.lang.NullPointerException: temporal
+	at java.util.Objects.requireNonNull(Unknown Source)
+	at java.time.LocalDate.from(Unknown Source)
+	at java.time.LocalDate.until(Unknown Source)
+	at java.time.temporal.ChronoUnit.between(Unknown Source)
+	at com.date.calculator.service.ProcessNumberOfDays.getNoOfDays(ProcessNumberOfDays.java:19)
+	at com.date.calculator.controller.CalculatorController.calculate_days(CalculatorController.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:660)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2020-06-05 00:23:21 [Thread-126] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:23:21 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 129584 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:23:21 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:23:29 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 114876 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:23:29 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:23:29 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:23:29 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:23:30 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:23:30 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:23:30 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:23:30 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:23:31 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:23:31 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:23:31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:23:31 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 2.378 seconds (JVM running for 4.03)
+2020-06-05 00:23:35 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 00:23:41 [http-nio-9848-exec-3] ERROR c.d.c.c.CalculatorController - Invalid Date Entry
+2020-06-05 00:23:59 [http-nio-9848-exec-3] ERROR c.d.c.c.CalculatorController - Invalid Date Entry
+2020-06-05 00:32:46 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 00:32:46 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:37:00 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 78744 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:37:00 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:37:01 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:37:01 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:37:02 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:37:02 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:37:02 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:37:02 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:37:03 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:37:03 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:37:03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:37:03 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 2.966 seconds (JVM running for 4.741)
+2020-06-05 00:37:10 [http-nio-9848-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 00:37:33 [http-nio-9848-exec-1] ERROR c.d.c.c.CalculatorController - Invalid Date Entry
+2020-06-05 00:38:36 [http-nio-9848-exec-7] ERROR c.d.c.c.CalculatorController - Invalid Date Entry
+2020-06-05 00:38:50 [http-nio-9848-exec-1] ERROR c.d.c.c.CalculatorController - Invalid Date Entry
+2020-06-05 00:38:58 [http-nio-9848-exec-6] ERROR c.d.c.c.CalculatorController - Invalid Date Entry
+2020-06-05 00:40:47 [Thread-126] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:40:47 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 78744 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:40:47 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:40:48 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:40:48 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:40:48 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:40:48 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:40:48 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:40:48 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:40:48 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:40:48 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.088 seconds (JVM running for 229.982)
+2020-06-05 00:40:48 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 00:41:07 [Thread-129] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:41:07 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 78744 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:41:07 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:41:08 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:41:08 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:41:08 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:41:08 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:41:08 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:41:08 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:41:08 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:41:08 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 0.879 seconds (JVM running for 250.139)
+2020-06-05 00:41:08 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 00:42:02 [Thread-254] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:42:02 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 78744 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:42:02 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:42:03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:42:03 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:42:03 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:42:03 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:42:03 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:42:03 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:42:03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:42:03 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 0.89 seconds (JVM running for 305.064)
+2020-06-05 00:42:03 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 00:42:39 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 00:42:39 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:42:49 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 128092 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:42:49 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:42:49 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:42:49 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:42:51 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:42:51 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:42:51 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:42:51 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:42:51 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:42:51 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:42:51 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:42:52 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 2.713 seconds (JVM running for 4.466)
+2020-06-05 00:43:17 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 00:43:21 [http-nio-9848-exec-6] ERROR c.d.c.c.CalculatorController - Invalid Entry Invaid Date Entry
+2020-06-05 00:43:27 [http-nio-9848-exec-9] ERROR c.d.c.c.CalculatorController - Invalid Entry Invaid Date Entry
+2020-06-05 00:43:45 [http-nio-9848-exec-9] ERROR c.d.c.c.CalculatorController - Invalid Entry Invalid Input: Start Date is beyond End Date
+2020-06-05 00:50:48 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 00:50:49 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:50:59 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 38628 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:50:59 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:50:59 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:50:59 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:51:01 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:51:01 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:51:01 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:51:01 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:51:01 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:51:02 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:51:02 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:51:02 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 3.725 seconds (JVM running for 6.239)
+2020-06-05 00:51:08 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 00:54:44 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 00:54:44 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:55:02 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 90496 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 00:55:02 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 00:55:02 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 00:55:02 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 00:55:04 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 00:55:04 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 00:55:04 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 00:55:04 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 00:55:04 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 00:55:05 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 00:55:05 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 00:55:05 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 3.642 seconds (JVM running for 6.011)
+2020-06-05 00:55:11 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 00:55:25 [http-nio-9848-exec-9] ERROR c.d.c.c.CalculatorController - Invalid Entry Invaid Date Entry
+2020-06-05 01:01:52 [Thread-126] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:01:52 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 90496 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:01:52 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:01:53 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:01:53 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:01:53 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:01:53 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:01:53 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:01:54 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:01:54 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:01:54 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.61 seconds (JVM running for 414.866)
+2020-06-05 01:01:54 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:02:02 [Thread-129] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:02:02 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 90496 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:02:02 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:02:03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:02:03 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:02:03 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:02:03 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:02:03 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:02:03 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:02:03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:02:03 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.277 seconds (JVM running for 424.62)
+2020-06-05 01:02:03 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:03:24 [Thread-254] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:03:24 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 90496 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:03:24 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:03:25 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:03:25 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:03:25 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:03:25 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:03:25 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:03:25 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:03:25 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:03:25 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.062 seconds (JVM running for 506.429)
+2020-06-05 01:03:25 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:06:09 [Thread-379] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:06:10 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 90496 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:06:10 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:06:11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:06:11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:06:11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:06:11 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:06:11 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:06:11 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:06:11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:06:11 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.142 seconds (JVM running for 672.057)
+2020-06-05 01:06:11 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:08:08 [Thread-504] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:08:08 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 90496 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:08:08 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:08:10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:08:10 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:08:10 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:08:10 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:08:10 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:08:10 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:08:10 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:08:10 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.946 seconds (JVM running for 791.209)
+2020-06-05 01:08:10 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:10:02 [Thread-629] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:10:02 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 90496 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:10:02 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:10:03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:10:03 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:10:03 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:10:03 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:10:03 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'calculatorController': Unsatisfied dependency expressed through method 'main' parameter 0; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type 'java.lang.String' to required type 'org.springframework.ui.Model'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'org.springframework.ui.Model': no matching editors or conversion strategy found
+2020-06-05 01:10:03 [restartedMain] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2020-06-05 01:10:03 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-05 01:10:03 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'calculatorController': Unsatisfied dependency expressed through method 'main' parameter 0; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type 'java.lang.String' to required type 'org.springframework.ui.Model'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'org.springframework.ui.Model': no matching editors or conversion strategy found
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:723) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:895) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at com.date.calculator.DateCalculatorApplicationLauncher.main(DateCalculatorApplicationLauncher.java:12) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_251]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_251]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+Caused by: org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type 'java.lang.String' to required type 'org.springframework.ui.Model'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'org.springframework.ui.Model': no matching editors or conversion strategy found
+	at org.springframework.beans.TypeConverterSupport.convertIfNecessary(TypeConverterSupport.java:76) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1254) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:715) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 25 common frames omitted
+Caused by: java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'org.springframework.ui.Model': no matching editors or conversion strategy found
+	at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:262) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.TypeConverterSupport.convertIfNecessary(TypeConverterSupport.java:73) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 28 common frames omitted
+2020-06-05 01:10:03 [restartedMain] WARN  o.s.boot.SpringApplication - Unable to close ApplicationContext
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'springApplicationAdminRegistrar' defined in class path resource [org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.class]: Unsatisfied dependency expressed through method 'springApplicationAdminRegistrar' parameter 1; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.core.env.Environment' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:539) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.event.AbstractApplicationEventMulticaster.retrieveApplicationListeners(AbstractApplicationEventMulticaster.java:245) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.event.AbstractApplicationEventMulticaster.getApplicationListeners(AbstractApplicationEventMulticaster.java:197) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:134) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:403) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:360) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.boot.availability.AvailabilityChangeEvent.publish(AvailabilityChangeEvent.java:81) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.availability.AvailabilityChangeEvent.publish(AvailabilityChangeEvent.java:67) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:167) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:978) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:814) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:325) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at com.date.calculator.DateCalculatorApplicationLauncher.main(DateCalculatorApplicationLauncher.java:12) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_251]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_251]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.core.env.Environment' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1716) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1272) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 28 common frames omitted
+2020-06-05 01:10:30 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 90496 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:10:30 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:10:31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:10:31 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:10:31 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:10:31 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:10:31 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:10:32 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:10:32 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:10:32 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.703 seconds (JVM running for 932.845)
+2020-06-05 01:10:32 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:10:55 [Thread-754] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:10:56 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 90496 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:10:56 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:10:57 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:10:57 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:10:57 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:10:57 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:10:57 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:10:57 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:10:57 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:10:57 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.665 seconds (JVM running for 958.376)
+2020-06-05 01:10:57 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:11:06 [Thread-1002] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:11:06 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 90496 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:11:06 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:11:07 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:11:07 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:11:07 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:11:07 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:11:07 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:11:07 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:11:07 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:11:07 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.342 seconds (JVM running for 968.235)
+2020-06-05 01:11:07 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:11:18 [Thread-1127] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:11:18 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 90496 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:11:18 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:11:19 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:11:19 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:11:19 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:11:19 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:11:19 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:11:19 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:11:19 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:11:19 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.278 seconds (JVM running for 980.495)
+2020-06-05 01:11:19 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:12:09 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 01:12:10 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:12:21 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122112 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:12:21 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:12:21 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 01:12:21 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 01:12:24 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:12:24 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:12:24 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:12:24 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:12:24 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:12:25 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:12:25 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:12:25 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 4.631 seconds (JVM running for 7.142)
+2020-06-05 01:12:35 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 01:12:47 [http-nio-9848-exec-5] INFO  c.d.c.service.ProcessNumberOfDays - Start Date after Parsing..2020-06-02End date after parsing..2020-06-16
+2020-06-05 01:12:47 [http-nio-9848-exec-5] INFO  c.d.c.service.ProcessNumberOfDays - NoOfDays 14
+2020-06-05 01:12:53 [http-nio-9848-exec-10] ERROR c.d.c.c.CalculatorController - Invalid Entry Invalid Input: Start Date is beyond End Date
+2020-06-05 01:13:42 [Thread-126] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:13:43 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122112 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:13:43 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:13:44 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:13:44 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:13:44 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:13:44 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:13:44 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:13:44 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:13:44 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:13:44 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.49 seconds (JVM running for 86.241)
+2020-06-05 01:13:44 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:13:56 [Thread-129] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:13:56 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122112 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:13:56 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:13:57 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:13:57 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:13:57 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:13:57 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:13:57 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:13:57 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:13:57 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:13:57 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.122 seconds (JVM running for 99.275)
+2020-06-05 01:13:57 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:14:29 [Thread-254] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:14:30 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122112 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:14:30 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:14:31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:14:31 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:14:31 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:14:31 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:14:31 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:14:31 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:14:31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:14:31 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.328 seconds (JVM running for 133.387)
+2020-06-05 01:14:31 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:14:59 [Thread-379] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:14:59 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122112 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:14:59 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:15:00 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:15:00 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:15:00 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:15:00 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:15:00 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:15:01 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:15:01 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:15:01 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.325 seconds (JVM running for 162.864)
+2020-06-05 01:15:01 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:15:30 [Thread-504] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:15:30 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122112 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:15:30 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:15:31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:15:31 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:15:31 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:15:31 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:15:31 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:15:31 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:15:31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:15:31 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.5 seconds (JVM running for 193.67)
+2020-06-05 01:15:31 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:15:41 [Thread-629] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:15:41 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122112 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:15:41 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:15:43 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:15:43 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:15:43 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:15:43 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:15:43 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:15:43 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:15:43 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:15:43 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.574 seconds (JVM running for 205.174)
+2020-06-05 01:15:43 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:15:48 [Thread-754] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:15:49 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122112 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:15:49 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:15:49 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:15:49 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:15:49 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:15:50 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:15:50 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:15:50 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:15:50 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:15:50 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.376 seconds (JVM running for 212.117)
+2020-06-05 01:15:50 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 01:16:39 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 01:16:40 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:16:49 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122016 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 01:16:49 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 01:16:49 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 01:16:49 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 01:16:51 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 01:16:51 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 01:16:51 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 01:16:51 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 01:16:52 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 01:16:52 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 01:16:52 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 01:16:52 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 3.676 seconds (JVM running for 6.55)
+2020-06-05 01:17:02 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 01:17:09 [http-nio-9848-exec-5] ERROR c.d.c.c.CalculatorController - Invalid Entry Invaid Date Entry
+2020-06-05 01:17:13 [http-nio-9848-exec-7] INFO  c.d.c.service.ProcessNumberOfDays - Start Date after Parsing..2020-06-10End date after parsing..2020-06-25
+2020-06-05 01:17:13 [http-nio-9848-exec-7] INFO  c.d.c.service.ProcessNumberOfDays - NoOfDays 15
+2020-06-05 01:17:19 [http-nio-9848-exec-1] ERROR c.d.c.c.CalculatorController - Invalid Entry Invalid Input: Start Date is beyond End Date
+2020-06-05 01:46:33 [http-nio-9848-exec-10] INFO  c.d.c.service.ProcessNumberOfDays - Start Date after Parsing..2020-06-09End date after parsing..2020-06-19
+2020-06-05 01:46:33 [http-nio-9848-exec-10] INFO  c.d.c.service.ProcessNumberOfDays - NoOfDays 10
+2020-06-05 01:47:58 [http-nio-9848-exec-5] ERROR c.d.c.c.CalculatorController - Invalid Entry Invalid Input: Start Date is beyond End Date
+2020-06-05 01:48:42 [http-nio-9848-exec-1] ERROR c.d.c.c.CalculatorController - Invalid Entry Invaid Date Entry
+2020-06-05 02:04:03 [Thread-126] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:04:04 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122016 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 02:04:04 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 02:04:05 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 02:04:05 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 02:04:05 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 02:04:05 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 02:04:05 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:04:05 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 02:04:05 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 02:04:05 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.308 seconds (JVM running for 2839.369)
+2020-06-05 02:04:05 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 02:05:17 [Thread-129] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:05:17 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122016 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 02:05:17 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 02:05:18 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 02:05:18 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 02:05:18 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 02:05:18 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 02:05:18 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'calculatorController': Unsatisfied dependency expressed through field 'noOfDaysInput'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'processNumberOfDays': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'invalidInput' in value "${invalidInput}"
+2020-06-05 02:05:18 [restartedMain] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2020-06-05 02:05:18 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-05 02:05:18 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'calculatorController': Unsatisfied dependency expressed through field 'noOfDaysInput'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'processNumberOfDays': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'invalidInput' in value "${invalidInput}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:895) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at com.date.calculator.DateCalculatorApplicationLauncher.main(DateCalculatorApplicationLauncher.java:12) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_251]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_251]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'processNumberOfDays': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'invalidInput' in value "${invalidInput}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:405) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1306) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 25 common frames omitted
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'invalidInput' in value "${invalidInput}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:178) ~[spring-core-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:236) ~[spring-core-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:912) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1247) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 36 common frames omitted
+2020-06-05 02:05:18 [restartedMain] WARN  o.s.boot.SpringApplication - Unable to close ApplicationContext
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'springApplicationAdminRegistrar' defined in class path resource [org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.class]: Unsatisfied dependency expressed through method 'springApplicationAdminRegistrar' parameter 1; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.core.env.Environment' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:539) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.event.AbstractApplicationEventMulticaster.retrieveApplicationListeners(AbstractApplicationEventMulticaster.java:245) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.event.AbstractApplicationEventMulticaster.getApplicationListeners(AbstractApplicationEventMulticaster.java:197) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:134) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:403) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:360) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.boot.availability.AvailabilityChangeEvent.publish(AvailabilityChangeEvent.java:81) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.availability.AvailabilityChangeEvent.publish(AvailabilityChangeEvent.java:67) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:167) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:978) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:814) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:325) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at com.date.calculator.DateCalculatorApplicationLauncher.main(DateCalculatorApplicationLauncher.java:12) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_251]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_251]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.core.env.Environment' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1716) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1272) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 28 common frames omitted
+2020-06-05 02:05:39 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122016 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 02:05:39 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 02:05:40 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 02:05:40 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 02:05:40 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 02:05:40 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 02:05:40 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:05:40 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 02:05:40 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 02:05:40 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.089 seconds (JVM running for 2934.472)
+2020-06-05 02:05:40 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 02:05:54 [Thread-254] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:05:55 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122016 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 02:05:55 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 02:05:55 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 02:05:55 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 02:05:55 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 02:05:55 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 02:05:55 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:05:56 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 02:05:56 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 02:05:56 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.128 seconds (JVM running for 2949.949)
+2020-06-05 02:05:56 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 02:06:56 [Thread-502] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:06:56 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122016 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 02:06:56 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 02:06:57 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 02:06:57 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 02:06:57 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 02:06:57 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 02:06:57 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:06:57 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 02:06:57 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 02:06:57 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.025 seconds (JVM running for 3011.132)
+2020-06-05 02:06:57 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 02:07:36 [Thread-627] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:07:37 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122016 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 02:07:37 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 02:07:37 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 02:07:37 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 02:07:37 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 02:07:37 [restartedMain] INFO  o.a.c.c.C.[Tomcat-1].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 02:07:37 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'calculatorController': Unsatisfied dependency expressed through field 'noOfDaysInput'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'processNumberOfDays': Unsatisfied dependency expressed through method 'getNoOfDays' parameter 0; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type 'java.lang.String' to required type 'com.date.calculator.data.DateData'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'com.date.calculator.data.DateData': no matching editors or conversion strategy found
+2020-06-05 02:07:37 [restartedMain] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2020-06-05 02:07:37 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-06-05 02:07:37 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'calculatorController': Unsatisfied dependency expressed through field 'noOfDaysInput'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'processNumberOfDays': Unsatisfied dependency expressed through method 'getNoOfDays' parameter 0; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type 'java.lang.String' to required type 'com.date.calculator.data.DateData'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'com.date.calculator.data.DateData': no matching editors or conversion strategy found
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:895) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at com.date.calculator.DateCalculatorApplicationLauncher.main(DateCalculatorApplicationLauncher.java:12) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_251]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_251]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'processNumberOfDays': Unsatisfied dependency expressed through method 'getNoOfDays' parameter 0; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type 'java.lang.String' to required type 'com.date.calculator.data.DateData'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'com.date.calculator.data.DateData': no matching editors or conversion strategy found
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:723) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1422) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1306) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 25 common frames omitted
+Caused by: org.springframework.beans.ConversionNotSupportedException: Failed to convert value of type 'java.lang.String' to required type 'com.date.calculator.data.DateData'; nested exception is java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'com.date.calculator.data.DateData': no matching editors or conversion strategy found
+	at org.springframework.beans.TypeConverterSupport.convertIfNecessary(TypeConverterSupport.java:76) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1254) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredMethodElement.inject(AutowiredAnnotationBeanPostProcessor.java:715) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 38 common frames omitted
+Caused by: java.lang.IllegalStateException: Cannot convert value of type 'java.lang.String' to required type 'com.date.calculator.data.DateData': no matching editors or conversion strategy found
+	at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:262) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.TypeConverterSupport.convertIfNecessary(TypeConverterSupport.java:73) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 41 common frames omitted
+2020-06-05 02:07:37 [restartedMain] WARN  o.s.boot.SpringApplication - Unable to close ApplicationContext
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'springApplicationAdminRegistrar' defined in class path resource [org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.class]: Unsatisfied dependency expressed through method 'springApplicationAdminRegistrar' parameter 1; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.core.env.Environment' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:798) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:539) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1338) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1177) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:557) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:517) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:323) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:321) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.event.AbstractApplicationEventMulticaster.retrieveApplicationListeners(AbstractApplicationEventMulticaster.java:245) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.event.AbstractApplicationEventMulticaster.getApplicationListeners(AbstractApplicationEventMulticaster.java:197) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:134) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:403) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:360) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.boot.availability.AvailabilityChangeEvent.publish(AvailabilityChangeEvent.java:81) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.availability.AvailabilityChangeEvent.publish(AvailabilityChangeEvent.java:67) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:167) ~[spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:978) ~[spring-context-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:814) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:325) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226) [spring-boot-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+	at com.date.calculator.DateCalculatorApplicationLauncher.main(DateCalculatorApplicationLauncher.java:12) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_251]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[na:1.8.0_251]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[na:1.8.0_251]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-2.3.0.RELEASE.jar:2.3.0.RELEASE]
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.springframework.core.env.Environment' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1716) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1272) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1226) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:885) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:789) ~[spring-beans-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	... 28 common frames omitted
+2020-06-05 02:08:04 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122016 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 02:08:04 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 02:08:04 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 02:08:04 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 02:08:04 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 02:08:04 [restartedMain] INFO  o.a.c.c.C.[Tomcat-2].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 02:08:04 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:08:04 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 02:08:04 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 02:08:04 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 0.914 seconds (JVM running for 3078.722)
+2020-06-05 02:08:04 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 02:08:14 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 02:08:15 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:08:22 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122388 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 02:08:22 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 02:08:22 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 02:08:22 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 02:08:24 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 02:08:24 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 02:08:24 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 02:08:24 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 02:08:24 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:08:24 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 02:08:24 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 02:08:25 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 3.311 seconds (JVM running for 5.14)
+2020-06-05 02:08:41 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 02:08:44 [http-nio-9848-exec-3] ERROR c.d.c.c.CalculatorController - {invalid.date.entry}
+2020-06-05 02:08:44 [http-nio-9848-exec-3] ERROR c.d.c.c.CalculatorController - Invalid Entry {invalid.date.entry}
+2020-06-05 02:09:07 [Thread-126] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:09:08 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 122388 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 02:09:08 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 02:09:08 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 02:09:08 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 02:09:08 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 02:09:08 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 02:09:08 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:09:08 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 02:09:08 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 02:09:08 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 1.052 seconds (JVM running for 49.126)
+2020-06-05 02:09:08 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2020-06-05 02:09:09 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2020-06-05 02:09:10 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:09:55 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Starting DateCalculatorApplicationLauncher on N-20HEPF0W6FSK with PID 133636 (C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator\target\classes started by devalath in C:\Users\devalath\eclipse-workspace\DateCalculatorApp\DateCalculator)
+2020-06-05 02:09:55 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - No active profile set, falling back to default profiles: default
+2020-06-05 02:09:55 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-06-05 02:09:55 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-06-05 02:09:56 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9848 (http)
+2020-06-05 02:09:56 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-05 02:09:56 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-05 02:09:56 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-05 02:09:57 [restartedMain] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-05 02:09:57 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-06-05 02:09:57 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9848 (http) with context path ''
+2020-06-05 02:09:57 [restartedMain] INFO  c.d.c.DateCalculatorApplicationLauncher - Started DateCalculatorApplicationLauncher in 2.899 seconds (JVM running for 4.743)
+2020-06-05 02:10:02 [http-nio-9848-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-06-05 02:10:02 [http-nio-9848-exec-1] ERROR c.d.c.c.CalculatorController - Invaid Date Entry
+2020-06-05 02:10:02 [http-nio-9848-exec-1] ERROR c.d.c.c.CalculatorController - Invalid Entry Invaid Date Entry
+2020-06-05 02:10:08 [http-nio-9848-exec-5] ERROR c.d.c.c.CalculatorController - Invaid Date Entry
+2020-06-05 02:10:08 [http-nio-9848-exec-5] ERROR c.d.c.c.CalculatorController - Invalid Entry Invaid Date Entry
+2020-06-05 02:10:16 [http-nio-9848-exec-9] INFO  c.d.c.service.ProcessNumberOfDays - NoOfDays 8
